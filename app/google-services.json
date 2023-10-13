@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "979907669247",
+    "project_id": "firestorecrud-20b6c",
+    "storage_bucket": "firestorecrud-20b6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979907669247:android:dc3a8e15d67a6a4cb130ca",
+        "android_client_info": {
+          "package_name": "com.example.realfirestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD826VN26aelCPlXcKprsQAZsAdf186L1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
